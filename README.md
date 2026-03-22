@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=header&text=Deepa%20Choudhary&fontSize=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,10:ff7f00,20:ffff00,30:00ff00,40:00ffff,50:0000ff,60:8b00ff,70:ff1493,80:ff69b4,90:00ffcc,100:ff4500&height=180&section=header&text=Deepa%20Choudhary&fontSize=42&fontColor=ffffff"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Exploring+Real+World+Problems;Learning+%26+Growing+Everyday;Turning+Data+into+Insights+📊"/>
 </p>

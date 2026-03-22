@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Deepa%20Choudhary&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6dd5fa&height=180&section=header&text=Deepa%20Choudhary&fontSize=42&fontColor=ffffff"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Exploring+Real+World+Problems;Learning+%26+Growing+Everyday;Turning+Data+into+Insights+📊"/>

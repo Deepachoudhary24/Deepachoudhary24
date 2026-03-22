@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Deepa%20Choudhary&fontSize=40"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Deepa Choudhary</h1>
 <h3 align="center">Data Analytics Enthusiast | Exploring Real-World Problems 🚀</h3>
 

@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Deepa%20Choudhary&fontSize=40"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Exploring+Real+World+Problems;Learning+%26+Growing+Everyday;Turning+Data+into+Insights+📊"/>
+</p>
 <h1 align="center">Hi 👋, I'm Deepa Choudhary</h1>
 <h3 align="center">Data Analytics Enthusiast | Exploring Real-World Problems 🚀</h3>
 

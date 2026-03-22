@@ -40,8 +40,12 @@
 ---
 
 ## 📫 Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/deepa-choudhary01/">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepa%20Choudhary-blue?style=for-the-badge&logo=linkedin" />
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:deepachoudhary24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>

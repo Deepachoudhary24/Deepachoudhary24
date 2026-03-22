@@ -42,10 +42,10 @@
 ## 📫 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/deepa-choudhary01">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-
-  <a href="mailto:deepachoudhary24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  
+  <a href="mailto:deepachoudhary2724@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
 </p>

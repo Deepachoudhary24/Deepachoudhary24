@@ -45,7 +45,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   
-  <a href="mailto:deepachoudhary2724@gmail.com">
+ <p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&to=deepachoudhary2724@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
+</p>
 </p>

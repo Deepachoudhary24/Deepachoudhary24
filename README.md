@@ -24,19 +24,27 @@
 
 ```yaml
 ┌─────────────────────────────────────────┐
-│  Deepa Choudhary                        │
-│  B.Tech CSBS · 3rd Year · 2027         │
-│  BVP DET · Navi Mumbai                 │
+│  Name    →  Deepa Choudhary            │
+│  Degree  →  B.Tech CSBS · 3rd Year    │
+│  Year    →  Graduating 2027            │
+│  College →  BVP DET · Navi Mumbai     │
 ├─────────────────────────────────────────┤
-│  Focus   →  Data Analytics + Health     │
-│  Status  →  Open to Internships  🟢     │
+│  Focus   →  Data Analytics + Health    │
+│  Roles   →  Gemini Ambassador          │
+│             ACM Event Lead             │
+│             AWS Cloud Club PR Head     │
+├─────────────────────────────────────────┤
+│  Status  →  Open to Internships 🟢     │
 └─────────────────────────────────────────┘
 ```
 
-- 📊 &nbsp; Passionate about finding stories hidden inside real-world datasets
-- 🌱 &nbsp; Leveling up in **Python · SQL · Power BI · Data Visualization**
-- 🤝 &nbsp; Lead tech communities, run events, love collaborating on meaningful problems
-- ⚡ &nbsp; Deeply curious about **psychology & why people do what they do**
+<br/>
+
+🔥 &nbsp; I don't just learn tools — I use them to **solve real problems**
+📊 &nbsp; Passionate about finding stories hidden inside messy datasets
+🌱 &nbsp; Currently leveling up: **Python · SQL · Power BI**
+🤝 &nbsp; I run communities, lead events & collaborate on things that matter
+⚡ &nbsp; Secretly obsessed with **psychology & human behavior**
 
 <br clear="right"/>
 
@@ -109,9 +117,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=818cf8&text_color=c4b5fd&bg_color=0d0c1d" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="47%"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepachoudhary24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0c1d" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepachoudhary24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="38%"/>
 
 </div>
 

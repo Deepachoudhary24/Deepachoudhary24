@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6dd5fa&height=180&section=header&text=Deepa%20Choudhary&fontSize=42&fontColor=ffffff"/>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Exploring+Real+World+Problems;Learning+%26+Growing+Everyday;Turning+Data+into+Insights+📊"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Deepa Choudhary</h1>
 <h3 align="center">Data Analytics Enthusiast | Exploring Real-World Problems 🚀</h3>
 
@@ -41,19 +43,37 @@
 
 ---
 
-## 🏆 Achievements & Goals
-- 🥇 Active learner in **Data Analytics & Problem Solving**
-- 🎯 Goal: Become a **Data Analyst / Data Scientist**
-- ☁️ Aspiring to achieve **AWS Certifications (Cloud Practitioner → Solutions Architect)**
-- 👩‍💼 Future Aim: Lead or contribute to impactful tech communities (like **ACM / tech clubs**)
-- 📈 Continuously improving skills through **real-world projects**
+## 🏆 Achievements & Roles
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🌟_Google_Gemini_Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<br><sub>Promoting AI tools & literacy across campus</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/⚡_ACM_Event_Lead-FF6F00?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<br><sub>Organizing technical events & community-driven learning</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/☁️_AWS_Cloud_Club_PR_Head-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br><sub>Managing outreach & cloud awareness initiatives</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🔬_Patent_Pending_Medical_Project-8A2BE2?style=for-the-badge"/>
+<br><sub>Developing a real-world healthcare analytics solution</sub>
+
+</p>
 
 ---
 
 ## 👀 Profile Insights
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepachoudhary24&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Deepachoudhary24?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Deepachoudhary24&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Deepachoudhary24?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Deepachoudhary24?label=Stars&style=for-the-badge&color=yellow" />
 </p>
 
 ---

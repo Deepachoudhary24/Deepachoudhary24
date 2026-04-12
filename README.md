@@ -41,13 +41,29 @@
 
 ---
 
+## 🏆 Achievements & Goals
+- 🥇 Active learner in **Data Analytics & Problem Solving**
+- 🎯 Goal: Become a **Data Analyst / Data Scientist**
+- ☁️ Aspiring to achieve **AWS Certifications (Cloud Practitioner → Solutions Architect)**
+- 👩‍💼 Future Aim: Lead or contribute to impactful tech communities (like **ACM / tech clubs**)
+- 📈 Continuously improving skills through **real-world projects**
+
+---
+
+## 👀 Profile Insights
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepachoudhary24&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Deepachoudhary24?label=Followers&style=social" />
+</p>
+
+---
+
 ## 📫 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/deepa-choudhary01">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   
- 
   <a href="https://mail.google.com/mail/?view=cm&to=deepachoudhary2724@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>

@@ -43,6 +43,7 @@
 
 ---
 
+
 ## 🏆 Achievements & Roles
 
 <table align="center">
@@ -57,7 +58,7 @@
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/⚡_ACM_Event_Lead-FF6F00?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚡_ACM_Event_Lead-FF6F00?style=for-the-badge&logo=codersrank&logoColor=white"/>
 
 <br><sub>Organizing technical events & community-driven learning</sub>
 
@@ -75,14 +76,13 @@
 
 <td align="center">
 
-<img src="https://img.shields.io/badge/🔬_Patent_Pending_Medical_Project-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔬_Patent_Pending_Hardware_Project-6A5ACD?style=for-the-badge&logo=arduino&logoColor=white"/>
 
-<br><sub>Developing a real-world healthcare analytics solution</sub>
+<br><sub>Building an innovative real-world healthcare hardware system</sub>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 👀 Profile Insights

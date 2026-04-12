@@ -45,27 +45,43 @@
 
 ## 🏆 Achievements & Roles
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 <img src="https://img.shields.io/badge/🌟_Google_Gemini_Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
 <br><sub>Promoting AI tools & literacy across campus</sub>
 
-<br><br>
+</td>
+
+<td align="center">
 
 <img src="https://img.shields.io/badge/⚡_ACM_Event_Lead-FF6F00?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+
 <br><sub>Organizing technical events & community-driven learning</sub>
 
-<br><br>
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 <img src="https://img.shields.io/badge/☁️_AWS_Cloud_Club_PR_Head-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
 <br><sub>Managing outreach & cloud awareness initiatives</sub>
 
-<br><br>
+</td>
+
+<td align="center">
 
 <img src="https://img.shields.io/badge/🔬_Patent_Pending_Medical_Project-8A2BE2?style=for-the-badge"/>
+
 <br><sub>Developing a real-world healthcare analytics solution</sub>
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 

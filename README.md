@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast+%F0%9F%93%8A;Google+Gemini+Student+Ambassador+%E2%9C%A8;ACM+Event+Lead+%7C+AWS+Cloud+Club+PR+Head+%E2%98%81%EF%B8%8F;Turning+Real-World+Problems+into+Insights+%F0%9F%9A%80;Open+to+Data+Analytics+Internships+%F0%9F%9F%A2" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast+%F0%9F%93%8A;Turning+Real-World+Problems+into+Insights+%F0%9F%9A%80;Learning+%C2%B7+Building+%C2%B7+Growing+Every+Day+%F0%9F%8C%B1;Open+to+Data+Analytics+Internships+%F0%9F%9F%A2" alt="Typing SVG"/>
 
 <br/>
 
@@ -93,7 +93,7 @@
 
 | &nbsp; | Project | Description | Status |
 |:------:|:--------|:------------|:------:|
-| 🔬 | **Medical Insight Project** | Real-world health data analysis — patterns & actionable insights | `🟡 Ongoing` |
+| 🔬 | **Medical Insight Project** | Hardware + data project solving a real-world health problem *(details restricted)* | `🟡 Ongoing` |
 | 📊 | **Data Analytics Projects** | Exploratory analysis on real-world datasets with visual storytelling | `🟢 Active` |
 | 🎓 | **Student Learn** | Peer learning platform built with HTML/CSS | `🔵 Upgrading` |
 
@@ -112,10 +112,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=818cf8&text_color=c4b5fd&bg_color=0d0c1d" width="47%"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepachoudhary24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0c1d" width="38%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepachoudhary24&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&color=a78bfa&line=6d28d9&point=c4b5fd&bg_color=0d0c1d" width="90%"/>
 
 </div>
 

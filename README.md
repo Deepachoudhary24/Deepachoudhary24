@@ -1,39 +1,52 @@
-<!-- HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Deepa%20Choudhary%20|%20GSSoC%202026%20Contributor&fontSize=35" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6dd5fa&height=180&section=header&text=Deepa%20Choudhary&fontSize=42&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Exploring+Real+World+Problems;Learning+%26+Growing+Everyday;Turning+Data+into+Insights+📊"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Deepa Choudhary</h1>
+
+<p align="center">
+🎯 Passionate about solving real-world problems using data <br>
+📊 Currently learning Data Analytics & building projects
+</p>
 
 ---
 
-### 📌 Data Analytics Projects
-- Exploring datasets & extracting insights  
-
-### 📌 Student Learn  
-- Educational HTML project (upgrading soon)  
-
-### 📌 Medical Insight Project  
-- Real-world health data analysis (ongoing)  
-
----
-
-## 🏆 GSSoC 2026 Contributor
-
-<img src="https://gssoc.girlscript.tech/assets/images/logo.png" width="200"/>
-
-✔️ Contributing to open-source projects  
-✔️ Learning real-world collaboration  
-✔️ Building impactful solutions  
+### 🛠️ Tech Stack
+<p align="center">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Deepachoudhary24&theme=tokyonight)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepachoudhary24&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🔗 Connect with me
+### 🚀 Projects
+- 🔹 Data Analytics Project  
+- 🔹 Student Learn (upgrading)  
+- 🔹 Medical Insight Project  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
+---
 
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:yourmail@gmail.com)
+### 📫 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  
+  <a href="https://mail.google.com/mail/?view=cm&to=deepachoudhary24@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+</p>

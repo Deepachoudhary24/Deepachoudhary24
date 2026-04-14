@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6dd5fa&height=180&section=header&text=Deepa%20Choudhary&fontSize=42&fontColor=ffffff"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Exploring+Real+World+Problems;Learning+%26+Growing+Everyday;Turning+Data+into+Insights+📊"/>
 </p>
-
 <h1 align="center">Hi 👋, I'm Deepa Choudhary</h1>
 <h3 align="center">Data Analytics Enthusiast | Exploring Real-World Problems 🚀</h3>
 
@@ -29,9 +27,9 @@
 ---
 
 ## 🚀 Projects
-- 🔹 **Data Analytics Projects** – Exploring datasets & extracting insights  
-- 🔹 **Student Learn** – Educational HTML project (upgrading soon)  
-- 🔹 **Medical Insight Project** – Real-world health data analysis (ongoing)
+ 🔹 **Data Analytics Projects** – Exploring datasets & extracting insights  
+ 🔹 **Student Learn** – Educational HTML project (upgrading soon)  
+ 🔹 **Medical Insight Project** – Real-world health data analysis (ongoing)
 
 ---
 
@@ -43,63 +41,13 @@
 
 ---
 
-
-## 🏆 Achievements & Roles
-
-<table align="center">
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/🌟_Google_Gemini_Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<br><sub>Promoting AI tools & literacy across campus</sub>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/⚡_ACM_Event_Lead-FF6F00?style=for-the-badge&logo=codersrank&logoColor=white"/>
-
-<br><sub>Organizing technical events & community-driven learning</sub>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/☁️_AWS_Cloud_Club_PR_Head-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<br><sub>Managing outreach & cloud awareness initiatives</sub>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/🔬_Patent_Pending_Hardware_Project-6A5ACD?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-<br><sub>Building an innovative real-world healthcare hardware system</sub>
-
-</td>
-</tr>
-</table>
----
-
-## 👀 Profile Insights
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepachoudhary24&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Deepachoudhary24?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Deepachoudhary24?label=Stars&style=for-the-badge&color=yellow" />
-</p>
-
----
-
 ## 📫 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/deepa-choudhary01">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   
+ 
   <a href="https://mail.google.com/mail/?view=cm&to=deepachoudhary2724@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>

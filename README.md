@@ -1,43 +1,51 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6dd5fa&height=180&section=header&text=Deepa%20Choudhary&fontSize=42&fontColor=ffffff"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Exploring+Real+World+Problems;Learning+%26+Growing+Everyday;Turning+Data+into+Insights+📊"/>
-</p>
-<h1 align="center">Hi 👋, I'm Deepa Choudhary</h1>
-<h3 align="center">Data Analytics Enthusiast | Exploring Real-World Problems 🚀</h3>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Deepa%20Choudhary&fontSize=40" />
+
+# 👋 Hi, I'm Deepa Choudhary
+
+![GSSoC](https://img.shields.io/badge/GSSoC-2026%20Contributor-orange?style=for-the-badge)
+
+🚀 3rd Year Engineering Student | Aspiring Backend Developer  
+💡 Passionate about AI, Health-Tech & Real-world Problem Solving  
+🎯 Goal: Crack GSoC 2026  
 
 ---
 
-📊 Passionate about **Data Analytics & solving real-world problems**  
-🧠 Currently working on a **medical-related project focused on health insights**  
-🌱 Learning: **Python, SQL, Data Visualization, Open Source**
+## 🏆 Achievements
+
+🌟 GSSoC 2026 Contributor  
+🚀 Bharatiya Antariksh Hackathon 2025 Participant (Air Pollution Challenge)  
+💡 Building a Health-Tech Startup Idea (Menstrual Pain Analytics)  
+
+---
+
+## 💻 Projects
+
+🔹 **Data Analytics Projects**  
+Exploring datasets & extracting insights  
+
+🔹 **Student Learn**  
+Educational HTML project (upgrading with CSS & JS)  
+
+🔹 **Medical Insight Project**  
+Real-world health data analysis (ongoing)  
 
 ---
 
 ## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,github,mysql" />
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
-## 🚀 Projects
- 🔹 **Data Analytics Projects** – Exploring datasets & extracting insights  
- 🔹 **Student Learn** – Educational HTML project (upgrading soon)  
- 🔹 **Medical Insight Project** – Real-world health data analysis (ongoing)
+- 💻 C, C++  
+- 🌐 HTML, CSS (learning JavaScript)  
+- ⚙️ Git & GitHub  
+- 🧠 Backend Development (Learning Node.js)  
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepachoudhary24&theme=tokyonight" />
-</p>
+
+![Deepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepachoudhary24&layout=compact&theme=tokyonight)
 
 ---
 
@@ -52,3 +60,15 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
 </p>
+
+---
+
+## 🚀 Current Focus
+
+- 📚 Learning Backend Development (Node.js + Express)  
+- 🌍 Contributing to Open Source (GSSoC 2026)  
+- 🧠 Building real-world impactful projects  
+
+---
+
+⭐ From [DeepaChoudhary24](https://github.com/Deepachoudhary24)

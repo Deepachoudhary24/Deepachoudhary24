@@ -3,13 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Exploring+Real+World+Problems;Turning+Data+into+Insights+📊"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Data+Analytics+Enthusiast;GSSoC+2026+Contributor+🚀;Exploring+Real+World+Problems;Turning+Data+into+Insights+📊"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepa Choudhary</h1>
 
 <p align="center">
 🎯 Data Analytics Enthusiast <br>
+🚀 GSSoC 2026 Contributor <br>
 📊 Solving real-world problems using data <br>
 🌱 Learning Python, SQL & Data Visualization
 </p>
@@ -38,7 +39,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepachoudhary24&theme=tokyonight&hide_border=true"/>
 </p>

@@ -10,9 +10,23 @@
 
 <p align="center">
 🎯 Data Analytics Enthusiast <br>
-📊 Exploring real-world problems using data <br>
-🌱 Currently learning Python, SQL & Data Visualization
+📊 Solving real-world problems using data <br>
+🌱 Learning Python, SQL & Data Visualization
 </p>
+
+---
+
+## 🧠 Current Focus
+- 📊 Data Analytics & Insights  
+- 🧪 Real-world data projects  
+- 📈 Improving analytical thinking  
+
+---
+
+## 🎯 Currently Learning
+- 🐍 Python  
+- 🗄️ SQL  
+- 📊 Data Visualization  
 
 ---
 
@@ -27,15 +41,29 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepachoudhary24&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Deepachoudhary24&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepachoudhary24&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ## 🚀 Projects
-- 🔹 **Data Analytics Projects** – exploring datasets & extracting insights  
-- 🔹 **Student Learn** – educational HTML project (upgrading soon)  
-- 🔹 **Medical Insight Project** – real-world health data analysis  
+- 🔹 Data Analytics Projects – extracting insights from datasets  
+- 🔹 Student Learn – educational project (upgrading)  
+- 🔹 Medical Insight Project – health data analysis  
 
 ---
 

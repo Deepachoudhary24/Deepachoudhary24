@@ -40,15 +40,18 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepachoudhary24&theme=tokyonight" width="48%"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepachoudhary24&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepachoudhary24&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepachoudhary24&theme=tokyonight" width="48%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepachoudhary24&theme=tokyonight" width="48%"/>
+
+</div>
+
 ---
 
 ## 🚀 Projects

@@ -39,23 +39,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepachoudhary24&theme=tokyonight"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Deepachoudhary24&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepachoudhary24&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepachoudhary24&theme=tokyonight"/>
 </p>
 
 ---

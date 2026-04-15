@@ -1,43 +1,51 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6dd5fa&height=180&section=header&text=Deepa%20Choudhary&fontSize=42&fontColor=ffffff"/>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Exploring+Real+World+Problems;Learning+%26+Growing+Everyday;Turning+Data+into+Insights+📊"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analytics+Enthusiast;Exploring+Real+World+Problems;Turning+Data+into+Insights+📊"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Deepa Choudhary</h1>
-<h3 align="center">Data Analytics Enthusiast | Exploring Real-World Problems 🚀</h3>
+
+<p align="center">
+🎯 Data Analytics Enthusiast <br>
+📊 Exploring real-world problems using data <br>
+🌱 Currently learning Python, SQL & Data Visualization
+</p>
+
 ---
-📊 Passionate about **Data Analytics & solving real-world problems**  
-🧠 Currently working on a **medical-related project focused on health insights**  
-🌱 Learning: **Python, SQL, Data Visualization, Open Source**
----
+
 ## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,github,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,github"/>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+
 ---
-## 🚀 Projects
-- 🔹 **Data Analytics Projects** – Exploring datasets & extracting insights  
-- 🔹 **Student Learn** – Educational HTML project (upgrading soon)  
-- 🔹 **Medical Insight Project** – Real-world health data analysis (ongoing)
----
+
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepachoudhary24&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepachoudhary24&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
+
+## 🚀 Projects
+- 🔹 **Data Analytics Projects** – exploring datasets & extracting insights  
+- 🔹 **Student Learn** – educational HTML project (upgrading soon)  
+- 🔹 **Medical Insight Project** – real-world health data analysis  
+
+---
+
 ## 📫 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepa-choudhary01">
+  <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  
- 
-  <a href="https://mail.google.com/mail/?view=cm&to=deepachoudhary2724@gmail.com">
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&to=deepachoudhary24@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
-</p>                     this is the code
+</p>

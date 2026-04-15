@@ -16,6 +16,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
 ## 🧠 Current Focus
 - 📊 Data Analytics & Insights  
 - 🧪 Real-world data projects  
@@ -37,11 +41,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics Dashboard
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepachoudhary24&theme=tokyonight"/>
-  <br/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepachoudhary24&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepachoudhary24&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepachoudhary24&theme=tokyonight"/>
 </p>
 
 ---

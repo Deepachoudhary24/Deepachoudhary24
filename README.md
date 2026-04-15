@@ -63,11 +63,12 @@
 
 ## 📫 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/deepa-choudhary01">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&to=deepachoudhary24@gmail.com">
+  
+ 
+  <a href="https://mail.google.com/mail/?view=cm&to=deepachoudhary2724@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
 </p>

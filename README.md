@@ -40,20 +40,15 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepachoudhary24&theme=tokyonight&hide_border=true" width="48%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepachoudhary24&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
 </div>
-
 ---
 
 ## 🚀 Projects

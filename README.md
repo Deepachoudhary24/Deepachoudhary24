@@ -57,6 +57,7 @@
 ## 🚀 Projects
  🔹 Data Analytics Projects – extracting insights from datasets  
  🔹 Student Learn – educational project 
+ 
  🔹 Medical Insight Project – health data analysis  
 
 ---

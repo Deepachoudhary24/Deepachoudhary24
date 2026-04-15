@@ -40,17 +40,23 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics Dashboard
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepachoudhary24&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepachoudhary24&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepachoudhary24&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepachoudhary24&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepachoudhary24&theme=tokyonight" width="48%"/>
+</p>
 ---
 
 ## 🚀 Projects
-- 🔹 Data Analytics Projects – extracting insights from datasets  
-- 🔹 Student Learn – educational project (upgrading)  
-- 🔹 Medical Insight Project – health data analysis  
+ 🔹 Data Analytics Projects – extracting insights from datasets  
+ 🔹 Student Learn – educational project 
+ 🔹 Medical Insight Project – health data analysis  
 
 ---
 

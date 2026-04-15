@@ -49,7 +49,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepachoudhary24&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepachoudhary24&theme=tokyonight" width="48%"/>
 </p>
 ---
 
